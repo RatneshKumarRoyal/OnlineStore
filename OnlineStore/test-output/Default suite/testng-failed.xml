@@ -9,12 +9,6 @@
           <include name="beforeMethod"/>
         </methods>
       </class> <!-- testCases.Framework_001 -->
-      <class name="testCases.Framework_002">
-        <methods>
-          <include name="f"/>
-          <include name="beforeMethod"/>
-        </methods>
-      </class> <!-- testCases.Framework_002 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
